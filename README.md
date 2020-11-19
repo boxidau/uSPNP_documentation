@@ -190,7 +190,7 @@ This control valve setup is exactly what the uSPNP will use, just the cycling va
 
 ![mac_valve_3port](images/mac_valve_3port.jpg)
 
-If you're using a dual port TiAL wastegate, the line from port 3 on the MAC valve probably connects to the lower fitting on the wastegate body (the one that makes the valve open). You should check all documentation to verify this is exactly correct for your setup.
+If you're using a dual port TiAL wastegate, the line from port 2 on the MAC valve probably connects to the lower fitting on the wastegate body (the one that makes the valve open). You should check all documentation to verify this is exactly correct for your setup.
 
 The return vent line isn't strictly required and can be just left disconnected if you like. Normally this would introduce a small amount of un-metered air to the j-boot, but this isn't a big issue for MAP based systems. Remove and block to prevent dirt from entering your fancy turbo.
 
